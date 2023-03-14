@@ -27,9 +27,9 @@ public class Query01 {
                     + veri.getString(4) + "|")  ;
         }
 
-        con.close();
-        st.close();
-        veri.close();
+//        con.close();
+//        st.close();
+//        veri.close();
     }
 
 }
